@@ -1,0 +1,301 @@
+show_id,type,title,country,release_year,rating,duration
+s1,Movie,Title_1,Canada,2006,PG-13,68
+s2,TV Show,Title_2,India,2025,R,91
+s3,Movie,Title_3,USA,2019,TV-MA,74
+s4,Movie,Title_4,UK,2016,PG-13,71
+s5,TV Show,Title_5,UK,2002,PG-13,156
+s6,TV Show,Title_6,India,2004,TV-MA,168
+s7,Movie,Title_7,UK,2018,PG-13,137
+s8,Movie,Title_8,Canada,2011,TV-MA,116
+s9,Movie,Title_9,UK,2006,TV-MA,67
+s10,TV Show,Title_10,UK,2008,R,131
+s11,Movie,Title_11,Canada,2005,PG,86
+s12,Movie,Title_12,India,2025,TV-MA,121
+s13,TV Show,Title_13,India,2016,R,71
+s14,TV Show,Title_14,Canada,2015,PG,124
+s15,Movie,Title_15,Canada,2022,PG-13,166
+s16,TV Show,Title_16,Canada,2002,PG,163
+s17,TV Show,Title_17,UK,2020,TV-MA,101
+s18,Movie,Title_18,Canada,2025,TV-MA,121
+s19,TV Show,Title_19,USA,2003,TV-MA,174
+s20,TV Show,Title_20,UK,2009,TV-MA,70
+s21,Movie,Title_21,India,2004,TV-MA,162
+s22,TV Show,Title_22,India,2020,R,102
+s23,Movie,Title_23,India,2021,TV-MA,154
+s24,Movie,Title_24,UK,2009,R,76
+s25,TV Show,Title_25,USA,2011,PG-13,156
+s26,TV Show,Title_26,Canada,2009,TV-MA,91
+s27,TV Show,Title_27,Canada,2012,TV-MA,152
+s28,Movie,Title_28,India,2010,PG,144
+s29,TV Show,Title_29,India,2021,PG-13,144
+s30,Movie,Title_30,UK,2015,TV-MA,99
+s31,TV Show,Title_31,USA,2007,TV-MA,82
+s32,TV Show,Title_32,Canada,2007,PG-13,115
+s33,TV Show,Title_33,UK,2024,R,65
+s34,Movie,Title_34,Canada,2007,TV-MA,145
+s35,TV Show,Title_35,India,2012,PG,109
+s36,TV Show,Title_36,Canada,2001,TV-MA,161
+s37,Movie,Title_37,USA,2011,PG,96
+s38,Movie,Title_38,USA,2009,PG,168
+s39,TV Show,Title_39,India,2011,TV-MA,123
+s40,TV Show,Title_40,USA,2010,TV-MA,174
+s41,TV Show,Title_41,USA,2014,PG,113
+s42,Movie,Title_42,UK,2015,PG-13,131
+s43,Movie,Title_43,Canada,2016,PG-13,164
+s44,Movie,Title_44,India,2025,TV-MA,108
+s45,Movie,Title_45,India,2001,R,158
+s46,TV Show,Title_46,India,2017,PG-13,174
+s47,Movie,Title_47,India,2011,TV-MA,70
+s48,Movie,Title_48,India,2018,PG-13,147
+s49,Movie,Title_49,USA,2025,R,108
+s50,TV Show,Title_50,UK,2022,TV-MA,80
+s51,TV Show,Title_51,India,2017,R,174
+s52,Movie,Title_52,UK,2016,TV-MA,125
+s53,Movie,Title_53,UK,2005,R,122
+s54,TV Show,Title_54,USA,2024,PG-13,163
+s55,TV Show,Title_55,India,2014,PG-13,142
+s56,TV Show,Title_56,USA,2002,R,162
+s57,TV Show,Title_57,India,2005,R,87
+s58,TV Show,Title_58,USA,2002,R,76
+s59,TV Show,Title_59,UK,2000,TV-MA,65
+s60,TV Show,Title_60,India,2012,PG-13,78
+s61,TV Show,Title_61,Canada,2020,TV-MA,115
+s62,Movie,Title_62,UK,2025,PG-13,161
+s63,Movie,Title_63,Canada,2013,PG,87
+s64,Movie,Title_64,UK,2012,TV-MA,125
+s65,Movie,Title_65,USA,2003,PG-13,97
+s66,Movie,Title_66,India,2006,PG-13,178
+s67,Movie,Title_67,UK,2021,TV-MA,96
+s68,TV Show,Title_68,USA,2009,TV-MA,174
+s69,TV Show,Title_69,India,2006,PG-13,175
+s70,Movie,Title_70,India,2020,TV-MA,127
+s71,Movie,Title_71,UK,2014,R,145
+s72,TV Show,Title_72,India,2014,TV-MA,149
+s73,TV Show,Title_73,UK,2003,TV-MA,108
+s74,TV Show,Title_74,India,2022,TV-MA,102
+s75,Movie,Title_75,Canada,2022,PG-13,95
+s76,TV Show,Title_76,USA,2005,R,117
+s77,Movie,Title_77,Canada,2023,PG,72
+s78,Movie,Title_78,UK,2019,PG,111
+s79,TV Show,Title_79,Canada,2025,R,117
+s80,TV Show,Title_80,UK,2004,R,91
+s81,Movie,Title_81,India,2019,R,140
+s82,TV Show,Title_82,India,2011,PG-13,164
+s83,TV Show,Title_83,UK,2000,PG,159
+s84,Movie,Title_84,Canada,2007,R,178
+s85,TV Show,Title_85,India,2000,PG-13,119
+s86,Movie,Title_86,USA,2004,PG,169
+s87,Movie,Title_87,India,2021,TV-MA,142
+s88,TV Show,Title_88,USA,2005,PG-13,117
+s89,Movie,Title_89,Canada,2020,PG,158
+s90,Movie,Title_90,USA,2002,PG-13,169
+s91,TV Show,Title_91,USA,2014,PG,163
+s92,TV Show,Title_92,USA,2004,PG,115
+s93,TV Show,Title_93,USA,2023,TV-MA,87
+s94,Movie,Title_94,India,2013,PG-13,60
+s95,Movie,Title_95,USA,2017,R,101
+s96,TV Show,Title_96,India,2015,TV-MA,141
+s97,Movie,Title_97,USA,2005,TV-MA,107
+s98,TV Show,Title_98,UK,2024,PG,99
+s99,TV Show,Title_99,Canada,2023,R,156
+s100,Movie,Title_100,USA,2013,PG-13,122
+s101,TV Show,Title_101,UK,2023,R,135
+s102,Movie,Title_102,USA,2007,R,131
+s103,Movie,Title_103,USA,2006,R,147
+s104,TV Show,Title_104,USA,2007,R,139
+s105,Movie,Title_105,UK,2012,R,173
+s106,TV Show,Title_106,Canada,2005,PG,63
+s107,Movie,Title_107,UK,2017,PG,97
+s108,Movie,Title_108,Canada,2001,TV-MA,167
+s109,Movie,Title_109,USA,2007,PG,86
+s110,TV Show,Title_110,India,2010,TV-MA,68
+s111,Movie,Title_111,USA,2000,TV-MA,170
+s112,TV Show,Title_112,Canada,2021,PG-13,75
+s113,Movie,Title_113,UK,2005,R,115
+s114,Movie,Title_114,USA,2015,PG,135
+s115,TV Show,Title_115,UK,2019,PG-13,90
+s116,TV Show,Title_116,UK,2011,PG,147
+s117,TV Show,Title_117,UK,2010,TV-MA,178
+s118,TV Show,Title_118,USA,2009,PG,73
+s119,TV Show,Title_119,UK,2002,R,168
+s120,Movie,Title_120,UK,2012,TV-MA,84
+s121,Movie,Title_121,USA,2002,TV-MA,93
+s122,TV Show,Title_122,UK,2014,PG-13,126
+s123,Movie,Title_123,USA,2015,R,83
+s124,Movie,Title_124,Canada,2012,TV-MA,177
+s125,Movie,Title_125,Canada,2016,R,165
+s126,TV Show,Title_126,Canada,2002,PG,132
+s127,Movie,Title_127,UK,2019,R,85
+s128,Movie,Title_128,India,2010,TV-MA,79
+s129,Movie,Title_129,India,2020,PG-13,123
+s130,TV Show,Title_130,UK,2018,TV-MA,163
+s131,Movie,Title_131,India,2021,R,69
+s132,Movie,Title_132,USA,2010,R,142
+s133,TV Show,Title_133,India,2015,TV-MA,126
+s134,TV Show,Title_134,UK,2020,R,83
+s135,Movie,Title_135,UK,2002,PG,64
+s136,Movie,Title_136,USA,2021,TV-MA,126
+s137,TV Show,Title_137,Canada,2005,PG-13,117
+s138,TV Show,Title_138,UK,2013,TV-MA,86
+s139,TV Show,Title_139,USA,2023,PG,139
+s140,TV Show,Title_140,India,2017,PG,172
+s141,TV Show,Title_141,India,2016,PG,74
+s142,TV Show,Title_142,USA,2003,PG,94
+s143,TV Show,Title_143,USA,2022,PG,135
+s144,Movie,Title_144,UK,2014,PG-13,164
+s145,TV Show,Title_145,India,2010,R,112
+s146,TV Show,Title_146,USA,2025,PG,103
+s147,Movie,Title_147,India,2002,PG,85
+s148,TV Show,Title_148,USA,2002,TV-MA,106
+s149,TV Show,Title_149,India,2015,PG-13,93
+s150,Movie,Title_150,Canada,2004,PG-13,146
+s151,TV Show,Title_151,UK,2020,R,154
+s152,Movie,Title_152,India,2009,PG-13,109
+s153,Movie,Title_153,Canada,2018,TV-MA,143
+s154,Movie,Title_154,India,2024,TV-MA,71
+s155,Movie,Title_155,India,2003,R,146
+s156,TV Show,Title_156,Canada,2018,TV-MA,63
+s157,Movie,Title_157,India,2010,PG,146
+s158,Movie,Title_158,India,2001,PG,107
+s159,TV Show,Title_159,UK,2009,TV-MA,114
+s160,Movie,Title_160,Canada,2010,R,171
+s161,Movie,Title_161,Canada,2024,PG-13,60
+s162,Movie,Title_162,USA,2019,R,177
+s163,Movie,Title_163,India,2015,PG-13,148
+s164,TV Show,Title_164,UK,2018,TV-MA,125
+s165,Movie,Title_165,India,2022,TV-MA,89
+s166,TV Show,Title_166,India,2023,PG,62
+s167,TV Show,Title_167,USA,2010,PG-13,80
+s168,Movie,Title_168,India,2013,R,148
+s169,Movie,Title_169,UK,2001,TV-MA,143
+s170,Movie,Title_170,UK,2022,R,108
+s171,Movie,Title_171,USA,2004,PG,175
+s172,TV Show,Title_172,India,2004,PG-13,145
+s173,TV Show,Title_173,UK,2018,PG-13,144
+s174,TV Show,Title_174,India,2020,TV-MA,121
+s175,Movie,Title_175,India,2011,PG-13,156
+s176,TV Show,Title_176,India,2017,TV-MA,175
+s177,Movie,Title_177,USA,2003,PG,97
+s178,Movie,Title_178,India,2021,PG-13,74
+s179,Movie,Title_179,UK,2016,TV-MA,169
+s180,Movie,Title_180,India,2009,R,111
+s181,Movie,Title_181,UK,2019,TV-MA,138
+s182,TV Show,Title_182,India,2005,PG-13,105
+s183,TV Show,Title_183,UK,2024,PG,84
+s184,Movie,Title_184,UK,2013,PG-13,80
+s185,TV Show,Title_185,India,2010,PG-13,147
+s186,Movie,Title_186,India,2010,TV-MA,64
+s187,Movie,Title_187,UK,2017,R,129
+s188,Movie,Title_188,Canada,2022,PG-13,172
+s189,TV Show,Title_189,USA,2021,R,166
+s190,Movie,Title_190,Canada,2017,TV-MA,171
+s191,Movie,Title_191,Canada,2023,R,167
+s192,TV Show,Title_192,India,2022,TV-MA,106
+s193,TV Show,Title_193,USA,2010,PG,146
+s194,TV Show,Title_194,Canada,2020,R,127
+s195,Movie,Title_195,India,2011,R,150
+s196,Movie,Title_196,Canada,2004,PG,77
+s197,TV Show,Title_197,Canada,2022,R,80
+s198,Movie,Title_198,India,2008,PG,151
+s199,TV Show,Title_199,India,2024,PG-13,158
+s200,TV Show,Title_200,India,2008,TV-MA,145
+s201,Movie,Title_201,USA,2021,PG,163
+s202,Movie,Title_202,Canada,2009,R,82
+s203,TV Show,Title_203,India,2021,PG,123
+s204,TV Show,Title_204,UK,2018,R,126
+s205,TV Show,Title_205,Canada,2000,PG-13,99
+s206,TV Show,Title_206,UK,2006,PG,173
+s207,Movie,Title_207,USA,2003,PG-13,69
+s208,TV Show,Title_208,India,2000,TV-MA,148
+s209,TV Show,Title_209,UK,2014,R,111
+s210,TV Show,Title_210,USA,2007,R,172
+s211,Movie,Title_211,India,2011,PG-13,131
+s212,Movie,Title_212,UK,2021,TV-MA,178
+s213,TV Show,Title_213,UK,2021,PG,134
+s214,Movie,Title_214,USA,2017,PG,120
+s215,Movie,Title_215,India,2014,R,123
+s216,Movie,Title_216,India,2016,PG-13,64
+s217,TV Show,Title_217,UK,2013,PG-13,168
+s218,TV Show,Title_218,UK,2013,PG,112
+s219,Movie,Title_219,UK,2017,TV-MA,114
+s220,TV Show,Title_220,India,2019,TV-MA,96
+s221,TV Show,Title_221,USA,2017,PG,115
+s222,Movie,Title_222,USA,2015,PG,118
+s223,Movie,Title_223,India,2000,PG-13,168
+s224,TV Show,Title_224,Canada,2022,TV-MA,161
+s225,Movie,Title_225,USA,2010,PG,152
+s226,TV Show,Title_226,UK,2014,PG,128
+s227,TV Show,Title_227,Canada,2011,R,132
+s228,Movie,Title_228,Canada,2007,PG,118
+s229,TV Show,Title_229,USA,2021,PG,171
+s230,TV Show,Title_230,Canada,2019,TV-MA,61
+s231,Movie,Title_231,Canada,2005,PG-13,124
+s232,Movie,Title_232,USA,2002,TV-MA,163
+s233,Movie,Title_233,USA,2023,PG-13,119
+s234,TV Show,Title_234,Canada,2025,R,110
+s235,Movie,Title_235,UK,2012,PG,89
+s236,Movie,Title_236,India,2012,R,70
+s237,Movie,Title_237,Canada,2001,PG-13,151
+s238,Movie,Title_238,Canada,2004,TV-MA,167
+s239,TV Show,Title_239,UK,2016,TV-MA,135
+s240,TV Show,Title_240,Canada,2005,R,98
+s241,Movie,Title_241,Canada,2001,PG-13,149
+s242,TV Show,Title_242,India,2003,R,136
+s243,Movie,Title_243,India,2021,R,131
+s244,Movie,Title_244,India,2025,PG,122
+s245,TV Show,Title_245,USA,2010,R,123
+s246,TV Show,Title_246,USA,2007,PG,120
+s247,Movie,Title_247,India,2011,PG,113
+s248,Movie,Title_248,India,2007,TV-MA,151
+s249,TV Show,Title_249,USA,2010,PG,153
+s250,Movie,Title_250,UK,2021,PG,132
+s251,TV Show,Title_251,Canada,2019,TV-MA,162
+s252,Movie,Title_252,Canada,2007,R,154
+s253,Movie,Title_253,India,2007,PG-13,117
+s254,TV Show,Title_254,UK,2025,PG-13,144
+s255,TV Show,Title_255,USA,2016,PG-13,115
+s256,TV Show,Title_256,India,2019,R,170
+s257,TV Show,Title_257,UK,2019,PG,93
+s258,TV Show,Title_258,UK,2022,PG-13,178
+s259,TV Show,Title_259,UK,2015,R,90
+s260,TV Show,Title_260,USA,2013,PG,111
+s261,Movie,Title_261,USA,2010,TV-MA,148
+s262,Movie,Title_262,Canada,2006,PG-13,135
+s263,Movie,Title_263,Canada,2015,PG,60
+s264,TV Show,Title_264,UK,2012,PG-13,114
+s265,TV Show,Title_265,UK,2014,PG-13,81
+s266,TV Show,Title_266,USA,2023,PG-13,99
+s267,Movie,Title_267,Canada,2015,PG,160
+s268,TV Show,Title_268,UK,2020,R,170
+s269,TV Show,Title_269,Canada,2022,PG,60
+s270,Movie,Title_270,Canada,2023,PG-13,124
+s271,TV Show,Title_271,UK,2008,PG,122
+s272,Movie,Title_272,USA,2002,TV-MA,165
+s273,Movie,Title_273,UK,2018,R,113
+s274,TV Show,Title_274,UK,2019,PG,101
+s275,TV Show,Title_275,Canada,2004,TV-MA,80
+s276,TV Show,Title_276,UK,2009,R,138
+s277,Movie,Title_277,USA,2016,TV-MA,140
+s278,Movie,Title_278,UK,2014,R,81
+s279,Movie,Title_279,USA,2022,PG,97
+s280,TV Show,Title_280,USA,2024,TV-MA,158
+s281,TV Show,Title_281,Canada,2007,PG-13,168
+s282,TV Show,Title_282,India,2014,TV-MA,139
+s283,TV Show,Title_283,India,2020,R,67
+s284,Movie,Title_284,Canada,2013,PG,121
+s285,Movie,Title_285,UK,2019,R,106
+s286,Movie,Title_286,Canada,2006,TV-MA,76
+s287,Movie,Title_287,USA,2020,TV-MA,76
+s288,TV Show,Title_288,India,2022,PG-13,177
+s289,TV Show,Title_289,Canada,2011,PG,149
+s290,TV Show,Title_290,UK,2016,PG,72
+s291,Movie,Title_291,Canada,2016,TV-MA,76
+s292,Movie,Title_292,India,2009,PG,97
+s293,TV Show,Title_293,Canada,2018,PG-13,140
+s294,TV Show,Title_294,Canada,2013,R,171
+s295,Movie,Title_295,India,2010,PG,137
+s296,TV Show,Title_296,USA,2001,TV-MA,104
+s297,Movie,Title_297,USA,2017,R,65
+s298,Movie,Title_298,India,2006,R,94
+s299,Movie,Title_299,Canada,2011,PG-13,169
+s300,TV Show,Title_300,India,2025,TV-MA,73
